@@ -1,4 +1,8 @@
-
+/*
+Problem No 4:Declare ten variables of different data types and print the memry location of each variable.
+Name:Rafeul Anam Udoy
+Id:163432591
+*/ 
 #include<stdio.h>
 #include <float.h>
 
