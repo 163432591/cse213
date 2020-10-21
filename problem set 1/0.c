@@ -1,3 +1,9 @@
+/*
+Problem No 0:List all character and integer data types memory size in byte
+Name:Rafeul Anam Udoy
+Id:163432591
+*/
+
 #include<stdio.h>
 int main() {
     int a;
