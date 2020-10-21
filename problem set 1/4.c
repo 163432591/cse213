@@ -30,3 +30,6 @@ printf("the memory location of short int is:%p\n",&g);
 printf("the memory location of long long int is:%p\n",&h);
 printf("the memory location of unsigned int is:%p\n",&i);
 printf("the memory location of unsigned short int  is:%p",&j);
+  
+  return 0;
+}
